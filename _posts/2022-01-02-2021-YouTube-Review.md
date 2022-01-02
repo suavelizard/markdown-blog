@@ -5,9 +5,9 @@ These are a shortlist from the playlist I created.
 
 If you want a quick summary of the contents of the playlist watch these.
 I tried to slim down to these 20:
-- [Lilo & Stitch is a Weird Movie | Video Essay](https://www.youtube.com/watch?v=WCepX-8aohM)https://www.youtube.com/watch?v=WCepX-8aohM
+- [Lilo & Stitch is a Weird Movie | Video Essay](https://www.youtube.com/watch?v=WCepX-8aohM)
 - [Why Sondheim's Music is So Addictive](https://www.youtube.com/watch?v=HDEAYJcenI8)
-- [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
+- [A Brief History of Quantum Mechanics-  with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [The Cat Piano](https://www.youtube.com/watch?v=Uj4RBmU-PIo)
 - [Simple, Obvious Solutions To Glaring Problems - SOME MORE NEWS](https://www.youtube.com/watch?v=aPzU7tePihQ)
 - [Love, no matter what | Andrew Solomon](https://www.youtube.com/watch?v=9EVEmZ2c_es)
@@ -21,7 +21,7 @@ I tried to slim down to these 20:
 - [Do Chairs Exist?](https://www.youtube.com/watch?v=fXW-QjBsruE)
 - [💖 The Tale of Tiffany 💖](https://www.youtube.com/watch?v=9LMr5XTgeyI)
 - [The Alt-Right Playbook: How to Radicalize a Normie](https://www.youtube.com/watch?v=P55t6eryY3g)
-- [The Collapse of the American Empire - Lecture Featuring Chris Hedges](https://www.youtube.com/watch?v=csI8JLJ15Ak)
+- [The Collapse of the American Empire - Lecture Featuring Chris Hedges](https://www.youtube.com/watchv=csI8JLJ15Ak)
 - [AOC Was Right About Joe Manchin](https://www.youtube.com/watch?v=RQPGI5s8ChA)
 - [This Ciliate Is About to Die](https://www.youtube.com/watch?v=ibpdNqrtar0)
 - [How TV Ruined Aspiration](https://www.youtube.com/watch?v=y8MjoB3vgv8)
