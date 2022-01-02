@@ -1,37 +1,217 @@
-## Welcome to GitHub Pages
+# 2021 Youtube history
+## TOP VIDEOS
+These are a shortlist from the playlist I created. 
+[Top Videos 2021 Playlist](https://www.youtube.com/playlist?list=PLoZgji_c8WikViBfHIrqyHlhWZZijoodQ)
 
-You can use the [editor on GitHub](https://github.com/suavelizard/markdown-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you want a quick summary of the contents of the playlist watch these.
+I tried to slim down to these 20:
+- [Lilo & Stitch is a Weird Movie | Video Essay](https://www.youtube.com/watch?v=WCepX-8aohM)https://www.youtube.com/watch?v=WCepX-8aohM
+- [Why Sondheim's Music is So Addictive](https://www.youtube.com/watch?v=HDEAYJcenI8)
+- [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
+- [The Cat Piano](https://www.youtube.com/watch?v=Uj4RBmU-PIo)
+- [Simple, Obvious Solutions To Glaring Problems - SOME MORE NEWS](https://www.youtube.com/watch?v=aPzU7tePihQ)
+- [Love, no matter what | Andrew Solomon](https://www.youtube.com/watch?v=9EVEmZ2c_es)
+- [BIGTOP BURGER: SEASON ONE](https://www.youtube.com/watch?v=GyCagepF_T4)
+- [i want to die](https://www.youtube.com/watch?v=5AhZh4A7NLM)
+- [Sir Ken Robinson: Finding Your Element](https://www.youtube.com/watch?v=17fbxRQgMlU&)
+- [The Long History of "You're Not Ugly, You're Just Poor" [RANT]](https://www.youtube.com/watch?v=SuuMQluk2no)
+- [Why is Gen Z Humor So Weird?](https://www.youtube.com/watch?v=oVlspd9hxFA)
+- [Twitter and Empathy | Big Joel](https://www.youtube.com/watch?v=j2oSKW4Fv0Q)
+- [The Battle of May Island | Down the Rabbit Hole](https://www.youtube.com/watch?v=IZS0RpOgdfQ)
+- [Do Chairs Exist?](https://www.youtube.com/watch?v=fXW-QjBsruE)
+- [💖 The Tale of Tiffany 💖](https://www.youtube.com/watch?v=9LMr5XTgeyI)
+- [The Alt-Right Playbook: How to Radicalize a Normie](https://www.youtube.com/watch?v=P55t6eryY3g)
+- [The Collapse of the American Empire - Lecture Featuring Chris Hedges](https://www.youtube.com/watch?v=csI8JLJ15Ak)
+- [AOC Was Right About Joe Manchin](https://www.youtube.com/watch?v=RQPGI5s8ChA)
+- [This Ciliate Is About to Die](https://www.youtube.com/watch?v=ibpdNqrtar0)
+- [How TV Ruined Aspiration](https://www.youtube.com/watch?v=y8MjoB3vgv8)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## TOP CHANNELS
+*These are channels that I think were the top of my 2021 watches either because the quality of the content, the topics or the number of watches.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- AvE
+- Big Joel
+- Brian David Gilbert
+- CGP Grey
+- Toast
+- Chubby Emu
+- Channel 5 With Andrew Callaghan 
+- First We Feast
+- Fredrik Knudsen
+- ContraPoints 
+- Incognito Mode
+- I did a thing
+- JCS Criminal Psychology
+- Institute of Human Anatomy
+- Internet Historian
+- Jenny Nicholson
+- Let's Game It Out
+- Middle Eats
+- Marques Brownlee
+- Renegade Cut
+- Sailing La Vagabonde
+- Some More News
+- Technology Connection
+- Ordinary Things
+- VICE
+- World War Two
+- Journey to the Microcosmos
+  
+## CHANNELS
+These are the channels with multiple watches that I spent a large time watching in 2021 (not including programming/work stuff or music)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suavelizard/markdown-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Acorn to Arabella** - Channel where some guys are building a wooden boat from scratch including pouring the molten lead for the keel.
+- **Advoko Makes** - Swedish? Finnish? some dude making stuff in the forest.
+- Alex (French guy cooking) - Incredibly bubbly happy french cook. He does a lot of experiments like making mozzeralla etc.
+- **Aquaholic** - Tours of yachts mostly luxury
+- **Arzamas** - Russian channel with some neat videos about ancient history narrated by that one actor.
+- **Michael Cthulhu** - Canadian metalworker that makes swords and weapons from video games
+- **Athlean-X** - Personal trainer that does work with hollywood I guess. He's pretty good.
+- **AvE (Arduino vs Evil)** - Some manner of very skilled engineer or tradesperson in Canada (near Kelowna I think) that does tool tear downs and reviews. Lots of off colour humour.
+- **Binging with Babish** - Cooking show hosted by Babish who is very relatable and teaches cooking. He got super famous and has cookbooks and stuff now.
+- **Big Joel** - Philosophy and art. Mostly Joel just presenting a thesis/video essay about some topic. Lots of left wing topics and critiques of conservative idealogy.
+- **bill wurtz** - Surrealist music and videos. Also has done some comedic videos about history.
+- **Bo Burnham** - Comedian. Music.
+- **Bong Eats** - Recipe videos.
+- **Bored Gamer** - Star Citizen news and videos.
+- **Boston Dynamics** - Robotics. Showcasing the progress being made on Atlas and Spot mostly.
+- **Brave Wilderness** - Coyote Peterson talking about animals. Also a lot of questionable things like getting bit by insects to see which hurts the most.
+- **Brian David Gilbert** - Comedian. Used to work for Polygon. Does music and comedy videos. Has done a bunch of spooky shorts too.
+- **Casual Earth** - Geography and science.
+- **CGP Grey** - Incredibly interesting videos about a wide range of topics. He used to be a teacher and does very extensive obssesive research (like about the origin of the name Tiffany)
+- **Channel 5 With Andrew Callaghan** - This was previously All Gas, No Brakes but the owners screwed him out of the name. Basically he goes around and interviews anyone who wants to talk which is bizarre and quite comedic.
+- **Chubby Emu** - Doctor. Goes through bizarre cases and explains what happens. Just fascinating.
+- **City Beautiful** - Discussion about city planning and infrastructure.
+- **Coal Miners Driving Teslas** - Some guy in Australia inviting blue collar coal miners to test drive his Tesla. 
+- **Colin Furze** - I think this guy also used to be a teacher but he's famous for making extremely dangerous inventions and engineering projects.
+- **Company Man** - About different companies and how they work/How large the are etc.
+- **ContraPoints** - LGBTQ (mostly trans), Philosophy, comedy video essays.
+- **Dave 2D** - Electronics reviews mostly laptops
+- **David Hoffman** - Documenteries and historical footage
+- **Doug DeMuro** - Very in depth reviews of cars
+- **Drachinifel** - History, mostly battleships and navel warfare
+- **DW Documentary** - Documentaries
+- **Eater** - Educational Documentaries
+- **Economics Explained** - Financial and Economics concepts explained
+- **Electro BOOM** - Skilled engineer that does builds and explanations and ties in comedy
+- **Ethan Chlebowski** - Cooking and recipes
+- **Exurb1a** - Existenialism. Heavy channel with a lot of impact. Comedy.
+- **Filmento** - Movie reviews and critiques.
+- **First We Feast** - Home of the Hot Ones celebrity interview show. Food network.
+- **FLORB** - Alternative and off-grid homes, walkthroughs, interviews etc.
+- **Food Wishes** - Recipes.
+- **Fredrik Knudsen** - Down the Rabbit hole. Very interesting documentaries and video essays about all sorts of topics both historical and present-day.
+- **Gone with the Wynns** - Sailing vlogging couple. I find them general unlikeable but enjoy their videos content mostly.
+- **Gordon Ramsay** - Gordon Ramsay. Cooking.
+- **Gus Johnson** - Comedian. Wholesome short comedy videos.
+- **HBomberGuy** - Video essays about culture and controveries.
+- **How to Cook that** - Debunking all those scammy viral TikTok/Instagram videos about cooking.
+- **Huggbees** - Comedy re-does of the classic "how its made" type documentaries.
+- **I did a thing** - Funny Australian guy does weird/dangerous projects in his garage.
+- **Iilluminaughtii** - Rambling long-form video essays about MLMs and scams.
+- **Incognito Mode** - Funny videos about all sorts of topics. Multiple series from discussions to long-form retellings of events with a funny photoshop cut out style animation.
+- **Innuendo Studios** - Overviews and discussions of the Alt-right mentality and political forces.
+- **Institute of Human Anatomy** - In depth explanations with preserved bodies about how humans work.
+- **Internet Historian** - Similar/Crossover with Incognito Mode. Mostly comedic overviews of recent events on the internet.
+- **J Aubery** - Criminal cases and investigations of online personas.
+- **JCS Criminal Psychology** - Using CCTV footage of interrogations explains the psychology behind the suspects and police.
+- **JeannaGieseRabies01** - Mostly boring channel from the first known survivor of rabies (after the Milwakuee protocol was used on her)
+- **Jeff Seal** - Undercover landlord investigation and tenents rights
+- **Jenny Nicholson** - Humours movie review essays. Long form reviews of Theme Parks.
+- **Joel Haver** - Comedic animated videos about video games.
+- **Johnny Harris** - High qaulity educational videos about a variety of topics all over the world. May be a Russian propaganda channel. Ex-mormon.
+- **Journey to the Microcosmos** - High quality videos of microscopic phenomenae
+- **Juns Kitchen** - Cooking videos.
+- **Kiana Docherty** - Fitness/diet stuff ex-obese person.
+- **Kings and Generals** - Historical documentaries and videos.
+- **KOTSUMET** - Vlogging/cute videos of a pair of pet otters.
+- **Kurzgesagt – In a Nutshell** - Animated educational videos about science and technology.
+- **Late Night with Seth Meyers** - Late night show hosted by Seth Meyers
+- **LEMMiNO** - Overview videos about a host of topics mostly focused on the weird and macabre.
+- **Let's Game It Out** - "Lets Plays" of games but the guy plays them very very wrong and it's funny.
+- **Let's go to class** - Mostly just funny because the guy takes a hit of Salvia and tries to garden.
+- **Linus Tech Tips** - Electronics and tech reviews. Also builds and tech discussions.
+- **Lock Picking Lawyer** - Reviews and lock picking of locks.
+- **Marc Rebillet** - Music. Very talented DJ
+- **Mark Rober** - Ex-Nasa engineer does machines/inventions/charity. Mostly Fluff pieces.
+- **Mark Wiens** - Food tourism and reviews of different cuisines all over the world.
+- **Marques Brownlee** - Other than LTT probably the biggest tech youtuber. Insanely high production value and great reviews.
+- **MATTY MATHESON** - Food. Eccentric chef. Low brow humour. Loud and quirky.
+- **Media Sanctuary** - Mostly just for the talks by Chris Hedges.
+- **Michael Glass** - Just clips from Jon Stewart shows.
+- **Middle Eats** - Incredibly down to earth human cooking channel. Middle eastern food. Low budget and high value.
+- **Moon** - Video essays and overviews of social media.
+- **Mr. Volt** - Electronics projects.
+- **mrnigelng** - Comedian. Got famous for his "Asian" reaction of a BBC video on how to make rice.
+- **Mythology & Fiction Explained** - Explanations of art and myth (Dantes Inferno)
+- **Nate the Hoof Guy** - Ferrier (I think thats how its spelled). Videos on hoof repair of various animals.
+- **NautiStyles** - Yacht walkthroughs
+- **Nexpo** - Creepy events and conspiracies. Mysteries and internet mysteries/myths
+- **Ordinary Things** - Funny video overview essays/explnations of a bunch of stuff. (see internet historian etc)
+- **OverSimplified** - Simple animated explanations of historical events.
+- **Ozzy Man Reviews** - Australian guy does funny reviews of stuff
+- Paulisconi- Political opinionion pieces.
+- **PBS Eons** - Educational topic videos
+- **Perkins Builder Brothers** - House builds by Perkins brothers. Really interesting. One of them actually lost their hand/arm during their series.
+- **Philosophy Tube** - Philosophy essays
+- **Photonicinduction** - Really weird dude puts a LOT of electricity into things and melts them.
+- **Pindex** - Stephen Fry narrates opinion videos
+- **Plainly Difficult** - Historical disasters and breakdowns.
+- **potholer54** - World events, Climate change, Fact checking.
+- **Practical Engineering** - Tons of engineering topics and explanations of the science
+- **Pro Home Cooks** - Cooking/recipes. I find the guy slightly annoying but good videos.
+- **Real Science** - Biology and animals.
+- **RealLifeLore** - Super cool videos of all sorts of topics like dragsters, the saharah, earthquakes etc
+- **Rebecca Watson** - Skeptic and fact checking
+- **ReligionForBreakfast** - Religion
+- **Renegade Cut** - Politics, opinion peices, movie reviews, and political discussion. Heavy on socialism.
+- **Rogue Archery TV** - Archery Coaching.
+- **Ruby Ka Kitchen** - Cooking recipes homemade.
+- **Sailing Good, Bad, and Ugly** - Sailing Vlog
+- **Sailing La Vagabonde** - The best sailing vlogging couple. Very high quality content and likeable couple. They just had their second child and are about to move to their 3rd boat which will be a custom made trimaran.
+- **Sailing Naho** - Sailing vlogger couple. Nowhere near as relatable and likeable as LaVagabonde.
+- **Sailing Ruby Rose** - Sailing vlogger couple. Nowhere near as relatable and likeable as LaVagabonde.
+- **Sam Holmes Sailing** - Solo sailing vlogger
+- **Sam O'Nella Academy** - Satrical and comedic animated videos about historical oddities and events along with other odd topics
+- **Sean's Outdoor Adventures** - Archery videos and tutorials
+- **Second Thought** - Used to be general video essays now focused on socialism and the issues with capitalism
+- **Serpa Design** - Incredible aquarium builds, very calming and beautiful
+- **Shaan Geo** - Cooking videos.. Korean I think
+- **SideQuest** - History
+- **Simone Giertz** - Robotics and engineering. She notably became famous for her shitty robots on reddit then surviving a brain anueryism and converting a tesla to a truck.
+- **Simply Explained** - Historical events
+- **Some More News** - Left wing comedy news show, Cody used to be a writer for Cracked. His segments are long rants about the ridiculousness of how US politics works.
+- **struthless** - Self improvement/life coach/motivational type stuff
+- **SunnyV2** - In depth coverage of public personas like Notch and Belle Delphine
+- **Tasting History with Max Miller** - Cooking show where he remakes recipes from history attempting to be accurate to the exact time period
+- **Technology Connections** - Engaging and incredibly in-depth explanations on how things (mostly appliances) work
+- **TED** - Tech Education Design, Still amazing talks from every field imaginable. Not to be confused with the lower quality TEDX
+- **That Chapter** - Murders and serial killer cases with a snarky irish(?) host
+- **The Context** - Skepticism and debunking, politics
+- **The Critical Drinker** - Politically incorrect and abrasive movie reviews by a drunken irish guy. Veers into neckbeard land a lot
+- **The Escapist** - Long running rapid fire animated funny game reviews
+- **The Majority Report w_ Sam Seder** - Poltical talk show and discussion
+- **The New School** - Economic and poltical talks
+- **The New York Times** - The New York Times.. documentaries, opinion peices, and news
+- **The Royal Institution** - British Royal Institute talks on science, math, history.
+- **TheCrewChef** - Chef onboard luxury yachts explains her job and vlogs
+- **Toast** - Incredibly well done humourous animated videos of various historical incidents both recent and distant
+- **Tom Scott** - Long lived channel by (now) famous youtuber Tom Scott. Talks about math,history, science and various other topics all presented in an understandable way
+- **Tom Stanton** - Engineering projects and explanations
+- **Two Minute Papers** - Likeable indian guys summarizes scientific papers mostly about technology
+- **Undecided with Matt Ferrell** - Green energy and lifestyle
+- **UpIsNotJump** - Funny videos about games and other topics (like pickes)
+- **Vancouver's Worst Drivers Dashcam** - Compilations of dashcam videos from Vancouver
+- **Veritasium** - Famous youtube channel talking about math and science topics
+- **VICE** - Documentaries and reporting from VICE. Often criticized they have some amazing footage and great informative videos
+- **Vinyl Rewind** - Music discussion and history
+- **Vox** - Vox official channel news, opinion and discussions
+- **VSauce** - Famous youtuber known for explaining science and physics
+- **Wendover Productions** - Detailed overviews of many things but lots of focus on logistics and engineering
+- **We're In Hell** - Left wing comedic essays on things like Race and IQ, Doomsday preppers anti-maskers etc.
+- **wesley_birdwell** - Archery tutorials
+- **World War Two** - Real-time documentaries from Time Ghost about the entirety of World War 2
+- **Yachting World** - Yacht tours
+- **You Suck At Cooking** - Funny cooking videos
+- **zefrank1** - Comedic nature videos
