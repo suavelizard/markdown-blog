@@ -4,19 +4,19 @@ These are a shortlist from the playlist I created.
 
 If you want a quick summary of the contents of the playlist watch these.
 I tried to slim down to these 20:
-- [Lilo & Stitch is a Weird Movie | Video Essay](https://www.youtube.com/watch?v=WCepX-8aohM)
+- [Lilo & Stitch is a Weird Movie - Video Essay](https://www.youtube.com/watch?v=WCepX-8aohM)
 - [Why Sondheim's Music is So Addictive](https://www.youtube.com/watch?v=HDEAYJcenI8)
 - [A Brief History of Quantum Mechanics-  with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [The Cat Piano](https://www.youtube.com/watch?v=Uj4RBmU-PIo)
 - [Simple, Obvious Solutions To Glaring Problems - SOME MORE NEWS](https://www.youtube.com/watch?v=aPzU7tePihQ)
-- [Love, no matter what | Andrew Solomon](https://www.youtube.com/watch?v=9EVEmZ2c_es)
+- [Love, no matter what - Andrew Solomon](https://www.youtube.com/watch?v=9EVEmZ2c_es)
 - [BIGTOP BURGER: SEASON ONE](https://www.youtube.com/watch?v=GyCagepF_T4)
 - [i want to die](https://www.youtube.com/watch?v=5AhZh4A7NLM)
 - [Sir Ken Robinson: Finding Your Element](https://www.youtube.com/watch?v=17fbxRQgMlU&)
 - [The Long History of "You're Not Ugly, You're Just Poor" [RANT]](https://www.youtube.com/watch?v=SuuMQluk2no)
 - [Why is Gen Z Humor So Weird?](https://www.youtube.com/watch?v=oVlspd9hxFA)
-- [Twitter and Empathy | Big Joel](https://www.youtube.com/watch?v=j2oSKW4Fv0Q)
-- [The Battle of May Island | Down the Rabbit Hole](https://www.youtube.com/watch?v=IZS0RpOgdfQ)
+- [Twitter and Empathy - Big Joel](https://www.youtube.com/watch?v=j2oSKW4Fv0Q)
+- [The Battle of May Island - Down the Rabbit Hole](https://www.youtube.com/watch?v=IZS0RpOgdfQ)
 - [Do Chairs Exist?](https://www.youtube.com/watch?v=fXW-QjBsruE)
 - [💖 The Tale of Tiffany 💖](https://www.youtube.com/watch?v=9LMr5XTgeyI)
 - [The Alt-Right Playbook: How to Radicalize a Normie](https://www.youtube.com/watch?v=P55t6eryY3g)
