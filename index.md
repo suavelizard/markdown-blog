@@ -1,5 +1,6 @@
-layout: page
+layout: post
 title: "2021 Youtube history"
+date: 2022-01-02 3:16:20 -0000
 permalink: /2021-youtube-history-review/
 ## TOP VIDEOS
 These are a shortlist from the playlist I created. 
