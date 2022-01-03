@@ -2,4 +2,26 @@ title: Zane's Personal Blog
 tagline: All the things you didn't ask for.
 description: >-
   Personal ramblings and notes from Zane
+author: Zane Ouimet
 theme: jekyll-theme-minimal
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+avatar: "/assets/img/avatar-icon.png"
+post_search: true
+permalink: /:year-:month-:day-:title/
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
