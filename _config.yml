@@ -4,6 +4,7 @@ description: >-
   Personal ramblings and notes from Zane
 author: Zane Ouimet
 theme: jekyll-theme-minimal
+show_excerpts: true # set to false to remove excerpts on the homepage
 navbar-links:
   About Me: "aboutme"
   Resources:
